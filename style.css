@@ -1,0 +1,7 @@
+body{
+   background-image: linear-gradient(to right, #648deb 60%, #00b3ff , #00ceee);
+   background-attachment: fixed;
+}
+p{
+    text-align: center;
+}
